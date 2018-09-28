@@ -1,0 +1,20 @@
+VERICAR MYSQLI_CONNECT CON MYSQLI_PCONNECT O CONEXION PERSISTENTE, AVERIGUANDO A PONER LIMITE A UNA CONEXION POR HORA =)
+
+EL INICIO DE SESIÓN DEBERÁ CONTENER EL NO SOY UN ROBOT DE GOOGLE, NOTIFICAR QUE EL ALUMNO NO ES DE LA MALLA ACTUAL VERIFICANDO QUE SI LLEVA CURSOS EXTRAÑOS A LA MALLA =)
+
+Funciones Administrativas
+	Buscador de alumnos en base a su respectiva escuela o GENERAL, con la opcion de ver su historial, notas del periodo lectivo y si lo tiene, sus datos personales COMPLETOS, SEGUIMIENTO CURRICULAR
+	Relación de asignaturas programadas en base a su respectiva escuela o GENERAL, con la opcion de poder exportar en excel su listado. Hacer click para bajar todos los cursos(proximamente)
+	Datos personales del propio usuario
+	Resumen de matrícula del presenta año de su RESPECTIVA ESCUELA O GENERAL, por año y por sexo.
+	Listado de alumnos con reserva anual, por semestre, los retirados
+	
+Funciones Docente
+	Datos personales de propio usuario
+	Listado de cursos a cargo con posibilidad de verlo virtualmente o bajarlo en excel
+	
+FUNCIONES ALUMNO
+	Las que ya existen en el actual, mejorar con criticas y su generador de pdf aumentarlo
+	
+	
+	
